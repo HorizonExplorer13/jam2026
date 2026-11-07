@@ -8,27 +8,82 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MPalancas_Base_color_1001
-    second: {fileID: 2800000, guid: 170bab4de99b8c04ea2f3c25ad28c3ac, type: 3}
+    second: {fileID: 2800000, guid: afd425ee87f46a64ab202f1517fc7523, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_Consola_Base_color_1001
-    second: {fileID: 2800000, guid: 15d2bb8f1860b3b44beb580887e76413, type: 3}
+    second: {fileID: 2800000, guid: e11cfe089cbe12548a0e59755083e85b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Base_color_1001
+    second: {fileID: 2800000, guid: 6248569467632d641ac512d46d3c2b63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Base_color_1002
+    second: {fileID: 2800000, guid: c3ced937336f0474d84ae0868c1f045e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Base_color_1003
+    second: {fileID: 2800000, guid: 57f84a55f7fabd74fb358e7a094bae60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Emissive_1001
+    second: {fileID: 2800000, guid: 1539d1c8ee204b746adab7061304b7a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Emissive_1002
+    second: {fileID: 2800000, guid: bf8a1eca7fd76e14693e64ac82522915, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Detalles_Emissive_1003
+    second: {fileID: 2800000, guid: 946bbeee125845c4da6119352a02ccfd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_Fondo_Base_color_1001
-    second: {fileID: 2800000, guid: b9b1a0b536c5f8546823177ce9e590ed, type: 3}
+    second: {fileID: 2800000, guid: 62c76d2156caa4846add428bf9fa9ec0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SCREEN_01_Base_color_1001
+    second: {fileID: 2800000, guid: 562c55c85090f3c4c9d27e5d08eeb334, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SCREEN_01_Base_color_1002
+    second: {fileID: 2800000, guid: 9365d860cdd0b6b45b346d080ac7371e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SCREEN_01_Base_color_1003
+    second: {fileID: 2800000, guid: 4be663377b6480c40b33921bb1aa0fb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SCREEN_01_Emissive_1002
+    second: {fileID: 2800000, guid: d9d46ee645ab6d2408ee4109dc8a73a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_SCREEN_01_Emissive_1003
+    second: {fileID: 2800000, guid: dd5288df9e1b5af4f8f58fcba50ca840, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_Tuberias_Base_color_1001
-    second: {fileID: 2800000, guid: bb3ce743f95eba54380b19c625858737, type: 3}
+    second: {fileID: 2800000, guid: e23d12d5bf7d4a54b945ffa6515bb16f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_screen_02_Base_color_1001
-    second: {fileID: 2800000, guid: 789fbfaf301719446b3e2097dd6f7595, type: 3}
+    second: {fileID: 2800000, guid: 6a0ad651b18885b4a89f8eadb540e0b3, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

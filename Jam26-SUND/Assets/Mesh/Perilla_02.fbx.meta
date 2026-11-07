@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_Pantalla_01_Base_color_1001
-    second: {fileID: 2800000, guid: 872585f4ff04cca47a4f6439c47bb5f4, type: 3}
+    second: {fileID: 2800000, guid: dc06e62f6ec680a46b98a7d8d6b13e0e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: M_Pantalla_01_Emissive_1001
-    second: {fileID: 2800000, guid: f153fa2b9135243468c6e2a15c6c9710, type: 3}
+    second: {fileID: 2800000, guid: f81b55e01aeb6af4cb0764d56d0c2ea4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

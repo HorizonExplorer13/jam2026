@@ -3,7 +3,27 @@ guid: 0a26d099315e56d48be6aa894d267af6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Pantalla2_Base_color_1001
+    second: {fileID: 2800000, guid: c3ce46331cc8ae64bae0e5dad9b0b2a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Pantalla2_Base_color_1002
+    second: {fileID: 2800000, guid: ebc4aa1178634bd479bda376e5d7edd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Pantalla2_Emissive_1001
+    second: {fileID: 2800000, guid: 47fe880e651f2c44baf4216b7af0b280, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Pantalla2_Emissive_1002
+    second: {fileID: 2800000, guid: c258fdacac882df47a04ad8bd24cb447, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
