@@ -3,7 +3,32 @@ guid: dddc57557d08c294996eada52d8e51c0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MPalancas_Base_color_1001
+    second: {fileID: 2800000, guid: 170bab4de99b8c04ea2f3c25ad28c3ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Consola_Base_color_1001
+    second: {fileID: 2800000, guid: 15d2bb8f1860b3b44beb580887e76413, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Fondo_Base_color_1001
+    second: {fileID: 2800000, guid: b9b1a0b536c5f8546823177ce9e590ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Tuberias_Base_color_1001
+    second: {fileID: 2800000, guid: bb3ce743f95eba54380b19c625858737, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_screen_02_Base_color_1001
+    second: {fileID: 2800000, guid: 789fbfaf301719446b3e2097dd6f7595, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

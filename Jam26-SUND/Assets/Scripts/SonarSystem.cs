@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SonarSystem : MonoBehaviour
 {
+      //public static System.Action SonarPingData;
+      //public static System.Action SonarReturnData;
    public static event Action<SonarPingData> OnPingEmitted;
    public event Action<SonarReturnData> OnEchoReturned;
 
